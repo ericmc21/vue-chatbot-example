@@ -34,7 +34,7 @@ export default {
 
 <style lang="scss" scoped>
 .button {
-  color: #3f94ff;
+  color: #67aa97;
   background-color: #ffffff;
   padding: 6px 22px;
   border-radius: 30px;
